@@ -12,7 +12,7 @@ Implementar o jogo Symon Says funcionando.
 - Clone os aquivos do repositório.
 
 ```sh
-git clone https://github.com/gspgaby/Symon-SaysSymon-Says.git
+git clone https://github.com/gspgaby/Symon-Says.git
 ```
 
 - Após entrar na pasta clonada, instale via terminal utilizando o comando:
